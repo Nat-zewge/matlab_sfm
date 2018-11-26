@@ -217,5 +217,5 @@ camorbit(0, -80);
 
 title('Dense Reconstruction');
 
-save_ply('south_building.ply',xyzPoints(goodIdx,:));
+
 
